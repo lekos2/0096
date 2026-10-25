@@ -99,24 +99,23 @@ local function v23(p4)
 end
 
 local t1 = {
-	info = "rbxassetid://6023426915", -- Trocado
-	crosshair = "rbxassetid://7733765307", -- Trocado 
-	eye = "rbxassetid://6031763426", -- Trocado
-	bolt = "rbxassetid://6034684949", -- Certo
-	sword = "rbxassetid://",
-	move = "rbxassetid://6034287594", -- Certo
+	info = "rbxassetid://6023426915",
+	crosshair = "rbxassetid://7733765307",
+	eye = "rbxassetid://6031763426",
+	bolt = "rbxassetid://6034684949",
+	sword = "rbxassetid://6034287594",
+	move = "rbxassetid://6034287594",
 	globe = "rbxassetid://6023426915",
-	settings = "rbxassetid://6031280882", -- Trocado
-	shield = "rbxassetid://6035078910", -- Peguei
-	key = "rbxassetid://7733965118", -- Certo
-	home = "rbxassetid://7733960981", -- Certo
-	music = "rbxassetid://7734020554", - Certo 
-	wrench = "rbxassetid://7743878358", - Creto
-	crosshair2 = "rbxassetid://6035047409", -- Trocado
-	sun = "rbxassetid://7734068495", - Certo
-	pencil = "rbxassetid://7734022107", - Certo
-	trash = "rbxassetid://6022668923" -- Trocado
-	miscellaneous = "rbxassetid://6034509993"
+	settings = "rbxassetid://6031280882",
+	shield = "rbxassetid://6035078910",
+	key = "rbxassetid://7733965118",
+	home = "rbxassetid://7733960981",
+	music = "rbxassetid://7734020554",
+	wrench = "rbxassetid://7743878358",
+	crosshair2 = "rbxassetid://6035047409",
+	sun = "rbxassetid://7734068495",
+	pencil = "rbxassetid://7734022107",
+	trash = "rbxassetid://6022668923"
 }
 
 local function v29(p5, p6)
